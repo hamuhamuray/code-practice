@@ -1,9 +1,0 @@
-# build artifacts
-*.exe
-*.obj
-*.pdb
-*.ilk
-.gitignore
-
-# IDE
-.vscode/
